@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, my name is Vladimir! 👋
+I am a frontend developer with over five years of commercial development experience.
+
+Feel free to contact me:
 <p align="center">
   <a href="https://t.me/vovnet">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -20,6 +23,8 @@
   <img src="https://img.shields.io/badge/html5-252525?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/css3-252525?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/webpack-252525?style=for-the-badge&logo=webpack"/>
+  <img src="https://img.shields.io/badge/vite-252525?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/babel-252525?style=for-the-badge&logo=babel"/>
   <img src="https://img.shields.io/badge/npm-252525?style=for-the-badge&logo=npm"/>
   <img src="https://img.shields.io/badge/jest-252525?style=for-the-badge&logo=jest"/>
 </p>
