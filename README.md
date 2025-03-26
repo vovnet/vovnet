@@ -6,14 +6,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+## Technologies
 <p>
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" />
-  <img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gatsby.png" />
+  <img src="https://img.shields.io/badge/javascript-252525?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/typescript-252525?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/react-252525?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/redux-252525?style=for-the-badge&logo=redux"/>
+  <img src="https://img.shields.io/badge/mobx-252525?style=for-the-badge&logo=mobx"/>
+  <img src="https://img.shields.io/badge/nextjs-252525?style=for-the-badge&logo=nextjs"/>
+  <img src="https://img.shields.io/badge/remix-252525?style=for-the-badge&logo=remix"/>
+  <img src="https://img.shields.io/badge/gatsby-252525?style=for-the-badge&logo=gatsby"/>
+  <img src="https://img.shields.io/badge/git-252525?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/html5-252525?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/webpack-252525?style=for-the-badge&logo=webpack"/>
+  <img src="https://img.shields.io/badge/npm-252525?style=for-the-badge&logo=npm"/>
+  <img src="https://img.shields.io/badge/jest-252525?style=for-the-badge&logo=jest"/>
 </p>
 
 
