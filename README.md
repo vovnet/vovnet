@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/gatsby-252525?style=for-the-badge&logo=gatsby"/>
   <img src="https://img.shields.io/badge/git-252525?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/html5-252525?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/css3-252525?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/webpack-252525?style=for-the-badge&logo=webpack"/>
   <img src="https://img.shields.io/badge/npm-252525?style=for-the-badge&logo=npm"/>
   <img src="https://img.shields.io/badge/jest-252525?style=for-the-badge&logo=jest"/>
